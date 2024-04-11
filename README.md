@@ -1,1 +1,2 @@
 # QGIS
+## Repository currently contains a QGIS Plugin I created using python that generates waterbody features from a json input. The files include scripts for the tool's backend functionality, custom class definitions, the GUI's user interface, and an example json file that can to test the tool. The readme file within teh waterbodyjsongenerator folder details installation instructions for the GUI.   
